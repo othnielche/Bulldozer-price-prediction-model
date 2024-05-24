@@ -25,7 +25,7 @@ There are 3 main datasets:
 The evaluation metric for this project will be the RMSLE (root mean squared log erro) between the actual and predicted auction prices.
 
 For more on the evaluation of this project check:
-https://www.kaggle.com/c/bluebook-for-bulldozers/overview/evaluation
+You can view on this Google sheet: https://www.kaggle.com/c/bluebook-for-bulldozers/overview/evaluation
 
 The goal for this project is to build a model which minimises the RMSLE.
 
